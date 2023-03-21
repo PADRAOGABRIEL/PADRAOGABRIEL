@@ -2,6 +2,6 @@
 
 - 🖥 Estudante de Ciência da Computação
 - ✈ Sempre em busca de conhecimento
-- 🚀 Estudando Java, C e começando JavaScript no momento
+- 🚀 Estudando Java, C e Python no momento
 
 
