@@ -4,10 +4,9 @@
 - ✈ Sempre em busca de conhecimento
 - 🚀 Estudando Java, C e Python no momento
 
-<div align="center">
-<![Padrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=PADRAOGABRIEL&show_icons=true&theme=radical)" height='150' />
-<![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PADRAOGABRIEL&layout=compact&theme=radical)" height='150'/>
-</div>
+
+<![Padrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=PADRAOGABRIEL&show_icons=true&theme=radical)"
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PADRAOGABRIEL&layout=compact&theme=radical)"
 
 ## Tecnologias que estudo/estudei!
 
