@@ -3,10 +3,13 @@
 - 🖥 Estudante de Ciência da Computação
 - ✈ Sempre em busca de conhecimento
 - 🚀 Estudando Java, C e Python no momento
+- ⚔ Em busca de Estágio
 
 
+<div>
 ![Padrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=PADRAOGABRIEL&show_icons=true&theme=radical&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PADRAOGABRIEL&layout=compact&theme=radical)
+<div/>
 
   
   
