@@ -2,7 +2,7 @@
 
 - 🖥 Estudante de Ciência da Computação
 - ✈ Sempre em busca de conhecimento
-- 🚀 Estudando Java, C e Python no momento
+- 🚀 Estudando Java, Python e Node.js no momento
 - ⚔ Em busca de Estágio
 
 
