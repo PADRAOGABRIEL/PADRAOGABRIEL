@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Padrão! 👋
+### Hi, I'm Gabriel Padrão! 👋
 
 - 🖥 Computer Science Student
 - ✈ Always wanting to learn something new!
