@@ -1,9 +1,9 @@
 ### Olá, eu sou o Gabriel Padrão! 👋
 
-- 🖥 Estudante de Ciência da Computação
-- ✈ Sempre em busca de conhecimento
-- 🚀 Estudando Java, Python e JavaScript no momento
-- ⚔ Em busca de Estágio
+- 🖥 Computer Science Student
+- ✈ Always wanting to learn something new!
+- 🚀 Studying Python, JavaSscript and Java now
+- ⚔ Looking for an Internship opportunity
 
 
 <div>
