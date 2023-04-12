@@ -2,7 +2,7 @@
 
 - 🖥 Computer Science Student
 - ✈ Always wanting to learn something new!
-- 🚀 Studying Python, JavaSscript and Java now
+- 🚀 Currently studying Python, JavaScript and Java
 - ⚔ Looking for an Internship opportunity
 
 
