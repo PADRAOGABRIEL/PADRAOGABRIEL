@@ -10,12 +10,12 @@
 <img height ="185px"src ="https://github-readme-stats.vercel.app/api?username=PADRAOGABRIEL&show_icons=true&theme=dark"/>
 <img height ="185px"src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PADRAOGABRIEL&theme=dark&layout=compact"/>
 <div/>
-  https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+ 
   
 ## Technologies i use most!
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="python" height='30px' width='30px' src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png"/>
+  <img align="center" alt="python" src=" https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
