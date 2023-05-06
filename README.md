@@ -4,7 +4,7 @@
 - ✈ Always wanting to learn something new!
 - 🚀 Currently studying Python, JavaScript and Java
 - ⚔ Looking for an Internship opportunity<br>
-
+<br>
 
 <div align="center">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=PADRAOGABRIEL&show_icons=true&theme=dark"/>
