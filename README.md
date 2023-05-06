@@ -3,7 +3,7 @@
 - 🖥 Computer Science Student
 - ✈ Always wanting to learn something new!
 - 🚀 Currently studying Python, JavaScript and Java
-- ⚔ Looking for an Internship opportunity
+- ⚔ Looking for an Internship opportunity<br>
 
 
 <div align="center">
