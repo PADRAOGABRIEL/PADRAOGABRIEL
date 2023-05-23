@@ -6,8 +6,9 @@
 - ⚔ Looking for an Internship opportunity<br>
 <br>
  
-  
-## Technologies i use most!
+<div align="center">
+## Technologies I use most!
+ </div>
 
 <div style="display: inline_block" align="center"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
