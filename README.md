@@ -4,7 +4,6 @@
 - ✈ Always wanting to learn something new!
 - 🚀 Currently studying Python, JavaScript and Java
 - ⚔ Looking for an Internship opportunity<br>
-<br>
  
 <h1 align="center"> Technologies I use most!</h1>
 
