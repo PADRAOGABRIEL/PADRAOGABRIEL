@@ -4,12 +4,6 @@
 - ✈ Always wanting to learn something new!
 - 🚀 Currently Data Science
 
-  
-  <div style="display: inline_block" align="center"><br/>
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-  
 <h3 align="left">Social Media:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-martins-da-cruz-padrao-05190b233/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="padraogabriel" height="30" width="30" /></a>
