@@ -2,7 +2,7 @@
 
 - 🖥 Computer Science Student
 - ✈ Always wanting to learn something new!
-- 🚀 Data Science
+- 🚀 Data Science & AI
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
